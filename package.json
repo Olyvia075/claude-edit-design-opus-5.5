@@ -1,0 +1,17 @@
+{
+  "name": "edit-with-claude",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render EditWithClaude out/draft.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.544",
+    "@remotion/google-fonts": "^4.0.544",
+    "@types/react": "^19.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.544",
+    "typescript": "^7.0.2"
+  }
+}
